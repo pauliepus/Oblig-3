@@ -56,3 +56,8 @@
 //	return 0;
 //}
 //
+
+
+
+//you might have noticed a bunch of changes in the code since last iteration, and this, actually NONE of this is my work. 
+// made by mY hands, but in all honesty, I got 99% help from Alan, he amazing # 
